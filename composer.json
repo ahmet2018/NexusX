@@ -1,0 +1,7 @@
+{
+    "name": "render/php-app",
+    "description": "PHP App for Render",
+    "require": {
+        "php": ">=7.4"
+    }
+}
